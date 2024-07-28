@@ -1,0 +1,63 @@
+@media (min-width:600px) and(max-width:800px) {
+    .table-block{
+        position: relative;
+        margin-top: 500px;
+    }
+    .table2{
+        margin-left: 20px;
+        margin-top: 500px;
+    }
+}
+
+@media (min-width:800px){
+    .container{
+        display: flex;
+    }
+    .text-block{
+        flex: 1;
+    }
+    .table-block{
+        flex: 1;
+    }
+}
+
+
+
+
+.intro{
+    margin-top: 20px;
+}
+
+
+
+
+
+.table1{
+    margin-left: 20px;
+    border-radius: 30%;
+    margin-top: 60px;
+    float: left;
+    color:white;
+    border-spacing: 0px;
+}
+
+.table2{
+    margin-left: 20px;
+    border-radius: 30%;
+    margin-top: 60px;
+    float:left;
+    color:white;
+    border-spacing: 0px;
+}
+
+
+
+.act{
+    background-color: #37516c;
+}
+td{
+    padding: 15px;
+    background-color: #b0c4df;
+    padding-left: 20px;
+    border-spacing: 0px;
+}
